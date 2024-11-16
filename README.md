@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
 <h3 align="center">A passionate Relationship developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinanshamsudheen" alt="sinanshamsudheen" /></a> </p>
+<iframe src="https://giphy.com/embed/4OV1bLOIWwIXRxpXlN" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ToeiAnimation-one-piece-zoro-swords-4OV1bLOIWwIXRxpXlN">via GIPHY</a></p>
 
 - 🔭 I’m currently working on **PythonProjects**
 
