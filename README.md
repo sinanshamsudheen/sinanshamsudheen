@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Ai & Ml**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sinanshamsudheen?tab=repositories](https://github.com/sinanshamsudheen?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/sinanshamsudheen?tab=repositories)
 
 - 💬 Ask me about **C,C++,Python,Java,SQL**
 
