@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C,C++,Python,Java,SQL**
 
-- ⚡ Fun fact **I find C++ easier than python.**
+- ⚡ Fun fact, **I find C++ easier than python.**
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
 <h3 align="left">Connect with me:</h3>
