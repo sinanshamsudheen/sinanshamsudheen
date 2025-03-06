@@ -2,11 +2,11 @@
 <h3 align="center">A passionate AI/ML student from India</h3>
 
 - 🚀 I'm currently working on [Jarvis](https://github.com/sinanshamsudheen/Jarvis)
-- 🌱 I'm currently learning **TensorFlow for ML**
+- 🌱 I'm currently learning **DeepLearning**
 - 🤝 I'm looking to collaborate on **AI & ML**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sinanshamsudheen?tab=repositories)
 - 💬 Ask me about **C, C++, Python, Java, SQL**
-- ⚡ Fun fact: **I find C++ easier than Python.**
+- ⚡ Fun fact: **I enjoy coding more than watching movies**
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
 <h3 align="left">Connect with me:</h3>
