@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
 <h3 align="center">A passionate AI/ML student from India</h3>
 
-- 🚀 I'm currently working on [Jarvis](https://github.com/sinanshamsudheen/Jarvis)
+- 🚀 I'm currently working on [Glazerband](https://github.com/sinanshamsudheen/glazerband)
 - 🌱 I'm currently learning **DeepLearning**
 - 🤝 I'm looking to collaborate on **AI & ML**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sinanshamsudheen?tab=repositories)
