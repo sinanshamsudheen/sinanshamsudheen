@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI/ML student from India</h3>
 
 - 🚀 I'm currently working on [Emerband](https://github.com/sinanshamsudheen/emerband)
-- 🌱 I'm currently learning **DeepLearning**
+- 🌱 I'm currently learning **NLP**
 - 🤝 I'm looking to collaborate on **AI & ML**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sinanshamsudheen?tab=repositories)
 - 💬 Ask me about **C, C++, Python, Java, SQL**
