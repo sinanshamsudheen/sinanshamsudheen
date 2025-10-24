@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
 <h3 align="center">A passionate AI/ML student from India</h3>
 
-- 🚀 I'm currently working on [Rice Disease Classifier](https://github.com/sinanshamsudheen/RiceDiseaseClassifier)
-- 🌱 I'm currently learning **NLP**
-- 🤝 I'm looking to collaborate on **AI & ML**
+- 🚀 I'm currently working on finding out what actually matters.
+- 🌱 I'm currently learning **Agentic AI**
+- 🤝 I'm looking to collaborate on **Scalable AI oriented systems**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sinanshamsudheen?tab=repositories)
 - 💬 Ask me about **C, C++, Python, Java, SQL**
 - ⚡ Fun fact: **I enjoy coding more than watching movies**
