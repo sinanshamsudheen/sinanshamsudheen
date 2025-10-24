@@ -16,12 +16,11 @@
 <a href="https://www.leetcode.com/sinanshamsudheen7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sinanshamsudheen7" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sinanshamsudheen&repo=github-readme-stats" />
+Below
+<a href="https://github.com/sinanshamsudheen/AiML/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sinanshamsudheen&repo=AiML" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sinanshamsudheen&repo=convoychat" />
-</a>
+![Sinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinanshamsudheen&show_icons=true&theme=transparent)
 
 
 
