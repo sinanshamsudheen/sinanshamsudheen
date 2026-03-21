@@ -1,4 +1,4 @@
-Hi, I'm Sinan. I'm an AI engineer at [`Lokam.ai`](https://lokam.ai) , where I build scalable AI systems and robust, production-ready infrastructures.
+Hi, I'm Sinan. I'm an AI engineer at [`Lokam.ai`](https://www.linkedin.com/company/lokam-ai/) , where I build scalable AI systems and robust, production-ready infrastructures.
 
 Previously worked at: [`IITB TrustLab`](https://www.linkedin.com/company/iitb-trust-lab/) 
 
